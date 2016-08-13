@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<config>
+    <defaultValues>
+        <name multilanguage="true">Истрория изменения статусов заказов</name>
+        <description multilanguage="true">Сохраняет историю изменений статусов заказов и дает возможность прикрепить сообщение к определенному изменению статуса.</description>
+        <version>1.0.0.1</version>
+        <author>Denis Efremov &lt;efremov.a.denis@gmail.com&gt;</author>
+    </defaultValues>
+</config>

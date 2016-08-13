@@ -1,0 +1,1 @@
+{t name="StatusHistory"}Страница тестового модуля %name{/t}
